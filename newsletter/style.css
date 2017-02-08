@@ -1,0 +1,35 @@
+body {
+	background-color: #000000;
+}
+
+.container {
+	background-color: #7F7F7F;
+	width: 80%;
+	margin: 0 auto;
+	padding: 25px;
+}
+
+h1 {
+    color: #1C254D;
+	font-size: 38px;
+	text-align: center;
+}
+
+img {
+	width: 450px; 
+	float: right; 
+	margin: 20px; 
+}
+
+h2 {
+	margin-left: 25px;
+}
+
+h3 {
+	margin-left: 50px;
+}
+
+p {
+	margin-left: 100px;
+	margin-right: 100px;
+}
